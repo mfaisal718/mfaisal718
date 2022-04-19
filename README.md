@@ -42,7 +42,7 @@ I am an innovative entrepreneur who has been building out a startup that teaches
                                 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
                     </p>
                     
-                  ### Socials
+ ### Socials
                   
                   
                 <p align="left">
