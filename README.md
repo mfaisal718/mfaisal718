@@ -12,8 +12,7 @@ I am an innovative entrepreneur who has been building out a startup that teaches
 *   🚀  I'm currently working on [FinGem.io](http://fingem.io)
 *   🧠  I'm learning React Native
 *   🤝  I'm open to collaborating on building MVPs, volunteering, algorithms, building cool shit
-*   ⚡  I was in a car accident in 2019 and been battling a Traumatic Brain Injury ever since. I am getting better with therapy but I am also currently disabled
-### Skills<p align="left">
+*   ⚡  I was in a car accident in 2019 and been battling a Traumatic Brain Injury ever since. I am getting better with therapy but I am also currently disabled### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
