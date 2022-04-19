@@ -53,11 +53,11 @@ I am an innovative entrepreneur who has been building out a startup that teaches
                           
 <a href="https://www.linkedin.com/in/mohammed-faisal-nyc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-<a href="http://www.medium.com/mfaisal718" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<a href="https://mfaisal718.medium.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
                           
 <a href="https://www.twitter.com/mo_faisall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
                           
-<a href="https://www.youtube.com/c/mfaisal718" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<a href="https://www.youtube.com/channel/UC8c20-iNRy8z_YjzqS4bBYA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ###Badges<b>My GitHub Stats</b><ahref="http://www.github.com/mfaisal718"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=mfaisal718&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
