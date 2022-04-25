@@ -7,7 +7,7 @@ Software Engineer and Entrepreneur
 I am an innovative entrepreneur who has been building out a startup that teaches financial literacy in NYC through a gamified user tested edtech platform. In Fall 2021 I completed General Assembly Software Engineering bootcamp where I learned Javascript, its frameworks and Ruby, Python. I look forward to harnessing both my skillsets in bringing technology to life.
 
 *   🌍  I'm based in New York City
-*   🖥️  See my portfolio at [My Portfolio](http://https://mohammedfaisal.netlify.app/)
+*   🖥️  See my portfolio at [My Portfolio](https://mohammedfaisal.netlify.app/)
 *   ✉️  You can contact me at [mfaisal718@gmail.com](mailto:mfaisal718@gmail.com)
 *   🚀  I'm currently working on [FinGem.io](http://fingem.io)
 *   🧠  I'm learning React Native
